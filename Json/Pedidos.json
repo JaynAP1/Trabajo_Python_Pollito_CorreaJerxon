@@ -1,0 +1,107 @@
+[
+    {
+        "id": "1",
+        "cliente": "Juan Perez",
+        "items": [
+            {
+                "categoria": "entrada",
+                "nombre": "Empanadas Mini",
+                "precio": 9000
+            },
+            {
+                "categoria": "plato_fuerte",
+                "nombre": "Pasta Bolognesa",
+                "precio": 35000
+            },
+            {
+                "categoria": "bebida",
+                "nombre": "Coca-Cola",
+                "precio": 3000
+            }
+        ],
+        "estado": "preparacion",
+        "pago": "pagado"
+    },
+    {
+        "id": "2",
+        "cliente": "Maria Lopez",
+        "items": [
+            {
+                "categoria": "entrada",
+                "nombre": "Papas Fritas",
+                "precio": 5000
+            },
+            {
+                "categoria": "plato_fuerte",
+                "nombre": "Hamburguesa",
+                "precio": 28000
+            },
+            {
+                "categoria": "bebida",
+                "nombre": "Jugo Natural",
+                "precio": 5000
+            }
+        ],
+        "estado": "preparacion",
+        "pago": "no_pagado"
+    },
+    {
+        "id": "3",
+        "cliente": "Carlos Gomez",
+        "items": [
+            {
+                "categoria": "entrada",
+                "nombre": "Dedos de Queso",
+                "precio": 11000
+            },
+            {
+                "categoria": "plato_fuerte",
+                "nombre": "Pollo al Curry",
+                "precio": 30000
+            },
+            {
+                "categoria": "bebida",
+                "nombre": "Vino",
+                "precio": 8000
+            }
+        ],
+        "estado": "creado",
+        "pago": "pagado"
+    },
+    {
+        "id": "4",
+        "cliente": "Ana Martinez",
+        "items": [
+            {
+                "categoria": "entrada",
+                "nombre": "Tostada Francesa",
+                "precio": 10000
+            },
+            {
+                "categoria": "plato_fuerte",
+                "nombre": "Lechona",
+                "precio": 25000
+            },
+            {
+                "categoria": "bebida",
+                "nombre": "Cerveza",
+                "precio": 3500
+            }
+        ],
+        "estado": "servido",
+        "pago": "pagado"
+    },
+    {
+        "id": "5",
+        "cliente": "Andres Gomez",
+        "items": [
+            {
+                "categoria": "entrada",
+                "nombre": "Tostada Francesa",
+                "precio": 10000
+            }
+        ],
+        "estado": "creado",
+        "pago": "pagado"
+    }
+]
